@@ -8,8 +8,6 @@ Anemia significantly affects the **quality of life and clinical outcomes** in pa
 🏥 **Data Source:** 1604 IBD patients from **National Taiwan University Hospital** (2006–2018).  
 📈 **Key Insight:** **Persistent anemia leads to worse outcomes, including higher hospitalization and mortality rates**.  
 
----
-
 ## 🔍 Key Findings  
 📢 **Anemia screening improved over time**  
 ✅ 62.6% of IBD patients were screened in **2006** → **77.2%** by **2017**  
@@ -35,21 +33,15 @@ Anemia significantly affects the **quality of life and clinical outcomes** in pa
 📢 **Recommendation**  
 ✅ **Early anemia screening & treatment** should be prioritized in IBD management  
 
----
-
 ## 🛠️ Skills & Tools Used  
 📊 **Statistical Methods:** Logistic Regression, Odds Ratio Calculation, Trend Analysis  
 📉 **Programming:** SAS (`PROC LOGISTIC`, `PROC FREQ`)  
 🗂 **Data Handling:** Retrospective Cohort Analysis  
 🤝 **Collaboration:** Worked closely with **doctors, researchers, and clinicians** to analyze data and derive actionable insights  
 
----
-
 ## 📄 Publication  
 📌 This study was published in **Journal of the Formosan Medical Association**.  
 🔗 **DOI:** https://doi.org/10.1016/j.jfma.2022.11.004
-
----
 
 ## 💡 Why This Matters  
 🎯 This research demonstrates my ability to:  
@@ -60,5 +52,4 @@ Anemia significantly affects the **quality of life and clinical outcomes** in pa
 
 ---
 
-## 📬 More Information  
-📩 Feel free to reach out via **[LinkedIn/email]** for more details!  
+For an overview of my work, visit my [GitHub Profile](https://github.com/Ling-Yun-Huang).
